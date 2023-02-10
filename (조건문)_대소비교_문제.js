@@ -16,3 +16,8 @@ let input = [
 for (let i = 0; i < input.length; i++) {
   console.log(`#${i + 1} ${answer(input[i][0], input[i][1])}`);
 }
+
+// 결과
+// #1 <
+// #2 >
+// #3 =

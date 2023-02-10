@@ -16,3 +16,8 @@ let input = [
 for (let i = 0; i < input.length; i++) {
   console.log(`#${i + 1} ${answer(input[i])}`);
 }
+
+// 결과
+// #1 82.00
+// #2 73.86
+// #3 81.13
